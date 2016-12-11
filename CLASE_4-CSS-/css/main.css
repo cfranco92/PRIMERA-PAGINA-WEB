@@ -1,0 +1,13 @@
+/*body{
+  background-color: red;
+  color: white;
+}
+*/
+
+  max-width: 100%;
+}
+
+/*Creamos una clase */
+.quitar-float{
+  float: none;
+}
