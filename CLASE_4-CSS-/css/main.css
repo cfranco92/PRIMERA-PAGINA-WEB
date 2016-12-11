@@ -4,10 +4,24 @@
 }
 */
 
+imgs{
   max-width: 100%;
 }
 
 /*Creamos una clase */
 .quitar-float{
   float: none;
+}
+
+.espacio-arriba{
+  margin-top: 100px;
+}
+
+/* Método por ID*/
+#principal{
+  width: 40%;
+  float: none;
+  margin-top: 100px;
+  text-align: center;
+  margin: 0 auto;
 }
