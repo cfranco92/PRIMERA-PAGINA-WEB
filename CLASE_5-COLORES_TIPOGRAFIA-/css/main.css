@@ -1,0 +1,49 @@
+/*FAMILIA LETRA LATE*/
+body{
+  font-family: 'Lato', sans-serif;
+}
+
+img{
+  max-width: 100%;
+}
+
+/*Creamos una clase */
+.quitar-float{
+  float: none;
+}
+
+.espacio-arriba{
+  margin-top: 100px;
+}
+
+/*FAMILIA LETRA PACIFICO*/
+.pacifico{
+  font-family: 'Pacifico', cursive;
+}
+
+/*TAMAÑO LETRA GRANDE*/
+.grande{
+  font-size: 35px;
+}
+
+.verde{
+  color: #00887C;
+}
+
+.espacio-derecha{
+  margin-right: 1em;
+}
+
+a{
+  color: #009FFF;
+}
+
+/* Método por ID
+#principal{
+  width: 40%;
+  float: none;
+  margin-top: 100px;
+  text-align: center;
+  margin: 0 auto;
+}
+*/
